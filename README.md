@@ -13,3 +13,10 @@ Menyuntu is released under the [MIT License](https://opensource.org/licenses/MIT
 While menyuntu is purposed to be an opinionated take, the open source community offers alternative customization, add-ons, extras, that you can use to adjust, replace or enrich your experience.
 
 [⇒ Browse the menyuntu extensions.](EXTENSIONS.md)
+
+## Getting Started
+
+Open your terminal and run:
+```
+wget -qO- https://vitorkusiaki.github.io/menyuntu/boot.sh | bash
+```
