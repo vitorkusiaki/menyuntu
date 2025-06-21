@@ -1,3 +1,3 @@
-OMAKUB_THEME_COLOR="sage"
-OMAKUB_THEME_BACKGROUND="gruvbox/background.jpg"
-source $OMAKUB_PATH/themes/set-gnome-theme.sh
+MENYUNTU_THEME_COLOR="sage"
+MENYUNTU_THEME_BACKGROUND="gruvbox/background.jpg"
+source $MENYUNTU_PATH/themes/set-gnome-theme.sh

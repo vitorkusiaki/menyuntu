@@ -1,3 +1,3 @@
-source $OMAKUB_PATH/install/desktop/set-alacritty-default.sh
+source $MENYUNTU_PATH/install/desktop/set-alacritty-default.sh
 
 nautilus -q

@@ -1,3 +1,3 @@
-OMAKUB_THEME_COLOR="bark"
-OMAKUB_THEME_BACKGROUND="everforest/background.jpg"
-source $OMAKUB_PATH/themes/set-gnome-theme.sh
+MENYUNTU_THEME_COLOR="bark"
+MENYUNTU_THEME_BACKGROUND="everforest/background.jpg"
+source $MENYUNTU_PATH/themes/set-gnome-theme.sh

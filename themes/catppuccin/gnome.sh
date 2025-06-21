@@ -1,3 +1,3 @@
-OMAKUB_THEME_COLOR="magenta"
-OMAKUB_THEME_BACKGROUND="catppuccin/background.png"
-source $OMAKUB_PATH/themes/set-gnome-theme.sh
+MENYUNTU_THEME_COLOR="magenta"
+MENYUNTU_THEME_BACKGROUND="catppuccin/background.png"
+source $MENYUNTU_PATH/themes/set-gnome-theme.sh

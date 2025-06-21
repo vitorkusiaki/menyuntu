@@ -1,3 +1,3 @@
-OMAKUB_THEME_COLOR="purple"
-OMAKUB_THEME_BACKGROUND="kanagawa/background.jpg"
-source $OMAKUB_PATH/themes/set-gnome-theme.sh
+MENYUNTU_THEME_COLOR="purple"
+MENYUNTU_THEME_BACKGROUND="kanagawa/background.jpg"
+source $MENYUNTU_PATH/themes/set-gnome-theme.sh

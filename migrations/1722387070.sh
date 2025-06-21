@@ -1,1 +1,1 @@
-source $OMAKUB_PATH/install/desktop/app-wl-clipboard.sh
+source $MENYUNTU_PATH/install/desktop/app-wl-clipboard.sh

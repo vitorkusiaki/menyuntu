@@ -1,0 +1,4 @@
+#!/bin/bash
+
+source $MENYUNTU_PATH/bin/menyuntu-sub/header.sh
+source $MENYUNTU_PATH/bin/menyuntu-sub/menu.sh
